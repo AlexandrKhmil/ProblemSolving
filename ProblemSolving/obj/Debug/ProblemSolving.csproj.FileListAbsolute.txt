@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\c#\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+D:\Visual Studio Projects\c#\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe
+D:\Visual Studio Projects\c#\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
+D:\Visual Studio Projects\c#\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.csprojAssemblyReference.cache
+D:\Visual Studio Projects\c#\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
+D:\Visual Studio Projects\c#\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb
+F:\GitHub\C#\c\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+F:\GitHub\C#\c\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe
+F:\GitHub\C#\c\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
+F:\GitHub\C#\c\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.csprojAssemblyReference.cache
+F:\GitHub\C#\c\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
+F:\GitHub\C#\c\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb
