@@ -10,13 +10,13 @@ namespace ProblemSolving
     {
         static void Main(string[] args)
         {
-            // 10
-            //new NarrowBridgePromlemFolder.NarrowBridgeProblem().Run();
+            // 10 Задача про узкий мост
+            new NarrowBridgePromlemFolder.NarrowBridgeProblem().Run();
 
-            // 11
-            new CrossroadProblemFolder.CrossroadProblem().Run();
+            // 11 Задача про перекресток
+            //new CrossroadProblemFolder.CrossroadProblem().Run();
 
-            // 12 
+            // 12 Задача про автостоянку
             //new ParkingProblemFolder.ParkingProblem().Run();
 
             Console.ReadLine();

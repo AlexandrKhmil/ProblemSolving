@@ -10,3 +10,9 @@ F:\GitHub\C#\c\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
 F:\GitHub\C#\c\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.csprojAssemblyReference.cache
 F:\GitHub\C#\c\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
 F:\GitHub\C#\c\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb
+F:\Projects C#\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+F:\Projects C#\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe
+F:\Projects C#\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
+F:\Projects C#\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.csprojAssemblyReference.cache
+F:\Projects C#\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
+F:\Projects C#\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb

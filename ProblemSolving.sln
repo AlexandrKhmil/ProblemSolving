@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemSolving", "ProblemSolving\ProblemSolving.csproj", "{40ADA912-ADD2-477E-BD8A-F1C7396A5672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolutions", "..\..\..\CSharpProjects\ProblemsSolutions\ProblemsSolutions.csproj", "{E1A85F8F-E944-4D12-8F7C-5ECDD809B92C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadsTesting", "..\..\ThreadsTesting\ThreadsTesting.csproj", "{08F20689-949D-495D-B95B-AFDCBCEED6A7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{40ADA912-ADD2-477E-BD8A-F1C7396A5672}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40ADA912-ADD2-477E-BD8A-F1C7396A5672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40ADA912-ADD2-477E-BD8A-F1C7396A5672}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E1A85F8F-E944-4D12-8F7C-5ECDD809B92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1A85F8F-E944-4D12-8F7C-5ECDD809B92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1A85F8F-E944-4D12-8F7C-5ECDD809B92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1A85F8F-E944-4D12-8F7C-5ECDD809B92C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{08F20689-949D-495D-B95B-AFDCBCEED6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08F20689-949D-495D-B95B-AFDCBCEED6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08F20689-949D-495D-B95B-AFDCBCEED6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08F20689-949D-495D-B95B-AFDCBCEED6A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
